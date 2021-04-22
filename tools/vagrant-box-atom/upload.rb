@@ -4,7 +4,7 @@ require 'bundler/setup'
 require 'net/http'
 require 'vagrant_cloud'
 
-ORG = 'artefactual'
+ORG = 'jraddaoui'
 BOX = 'atom'
 PROVIDER = 'virtualbox'
 
